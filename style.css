@@ -8,3 +8,15 @@ body {
   width: 960px;
   margin: 20px auto 20px auto;
 }
+h1{
+  color: red;
+}
+h4{
+color: blue;
+}
+#summary
+{color: #4fb189;
+}
+.skills-and-hobbies {
+  color: orange;
+}
